@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "parcial-numeros",
+  "version": "1.0.0",
+  "description": "Parcial TP2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "MM",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}

@@ -1,0 +1,4 @@
+h2 { color: blue; }
+form { max-width: 320px; display: grid; gap: 8px; }
+input, button { padding: 8px; }
+pre { background: #f6f6f6; padding: 12px; }
